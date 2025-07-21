@@ -1,3 +1,4 @@
+Music: 8.12.53  
 YouTube: 20.13.41  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
